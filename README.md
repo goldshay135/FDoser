@@ -10,4 +10,6 @@ FDoser is a fast dos tool
 ### Requirements
   python3
 
+:joy: <br />
+
 **you can report a bug by mentioning me in a tweet**
