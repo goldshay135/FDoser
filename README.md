@@ -1,6 +1,6 @@
 # FLooder v0.0.3 (@goldshay135)
 
-FDoser is a fast dos tool
+FLooder is a fast dos tool
 
 ## How to use
   git clone https://github.com/goldshay135/FLooder.git <br />
