@@ -1,15 +1,13 @@
-# FDoser v0.3 (@goldshay135)
+# FLooder v0.0.3 (@goldshay135)
 
 FDoser is a fast dos tool
 
 ## How to use
-  git clone https://github.com/goldshay135/FDoser.git <br />
-  cd FDoser <br />
-  python3 ./FDoser.py <br />
+  git clone https://github.com/goldshay135/FLooder.git <br />
+  cd FLooder <br />
+  python3 ./FLooder.py <br />
 
 ### Requirements
   python3
 
 :joy: <br />
-
-**you can report a bug by mentioning me in a tweet**
