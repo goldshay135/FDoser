@@ -1,4 +1,4 @@
-# FLooder v0.0.3 (@goldshay135)
+# FLooder v0.0.3 (@ozzzozon)
 
 FLooder is a fast(depends on your internet speed) packet flooder tool
 
