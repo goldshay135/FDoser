@@ -11,7 +11,7 @@ banner = (""" (     (        )      )  (           (
 | |_  | |    / _ \  / _ \ |   \ | __|| _ \  
 | __| | |__ | (_) || (_) || |) || _| |   /  
 |_|   |____| \___/  \___/ |___/ |___||_|_\ \n
-Made by goldshay135 https://github.com/goldshay135
+Made by ozzzozo https://github.com/ozzzozo
 """)
 
 def plog(message, color):
