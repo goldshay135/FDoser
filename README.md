@@ -1,6 +1,6 @@
 # FLooder v0.0.3 (@ozzzozon)
 
-FLooder is a fast(depends on your internet speed) packet flooder tool
+FLooder is a packet flooder tool
 
 ## How to use
   git clone https://github.com/ozzzozo/FLooder.git <br />
